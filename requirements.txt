@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+google-generativeai
+youtube-transcript-api
+python-docx
+requests
+cachetools>=5.0.0
