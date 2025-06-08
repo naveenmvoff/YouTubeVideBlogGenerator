@@ -1,11 +1,1 @@
-# 🎥 YouTube Content Summarizer 📝
 
-Turn any YouTube video into a structured blog-style article using Google Gemini AI and Streamlit.
-
----
-
-## 🔍 Overview
-
-This app takes a YouTube video link, fetches its transcript, and generates a structured, readable blog-style summary using Google Gemini 1.5 Flash. The app handles various transcript formats, retries on failure, and provides download options for the summary as `.txt` and `.docx` (if `python-docx` is installed).
-
-> Ideal for content creators, bloggers, educators, or anyone who wants to repurpose video content into written form.
